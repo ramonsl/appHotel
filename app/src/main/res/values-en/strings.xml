@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portal Torres Hotel</string>
+    <string name="app_reserve">Book by:</string>
+    <string name="app_desc">Torres Hotel is 3 km from Torres Grande Beach. The establishment offers a pool with deck, games room, bar, restaurant and room service. For your convenience, free Wi-Fi and free parking are available. All bright rooms have simple décor with tiled floors and a spacious wardrobe. Some have air conditioning, while others have a large LCD TV. All rooms have a private bathroom. Guests can enjoy a daily breakfast buffet, which includes a variety of fresh fruits, breads and cold meats. You can also enjoy regional specialties and a variety of drinks at the on-site restaurant. For your convenience, the property offers laundry facilities and a 24-hour front desk. Torres Hotel Portal is 1.5 km from bars, shops and restaurants in the center of Torres, and 200 km from Porto Alegre. We have 55 accommodations.</string>
+    <string name="app_maiores">information</string>
+    <string name="app_logo">Portal Hotel Torres Logo</string>
+    <string name="foto_piscina">Photo of the hotel swimming pool</string>
+    <string name="app_email">Send an e-mail</string>
+    <string name="app_local">Av. Castelo Branco 1750 - Torres-RS</string>
+    <string name="app_rede">"Access our FanPage "</string>
+    <string name="app_site">Access our site</string>
+    <string name="app_number">555136642186</string>
+    <string name="ic_phone">Button for placing a call</string>
+    <string name="ic_site">Go to website button</string>
+    <string name="ic_fan">fanpage</string>
+    <string name="ic_local">Go to page button</string>
+</resources>
